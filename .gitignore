@@ -21,3 +21,8 @@ dist/
 *.pkl
 
 data/
+
+.idea/
+venv/
+__pycache__/
+
